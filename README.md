@@ -9,3 +9,7 @@ In order to run TypeScript in the browser, I am utilizing the Parcel Bundler:
 ```
 npx parcel index.html
 ```
+
+
+npm install @faker-js/faker
+
