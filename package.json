@@ -2,5 +2,23 @@
   "dependencies": {
     "@faker-js/faker": "^8.0.0",
     "@types/google.maps": "^3.53.1"
-  }
+  },
+  "name": "typescript-maps",
+  "description": "The primary objective behind the creation of this repository is to document my learning journey and capture my notes on TypeScript. I will utilize this platform to construct a basic map application, with the intention of familiarizing myself with design patterns in TypeScript.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanhpbui/typescript-maps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanhpbui/typescript-maps/issues"
+  },
+  "homepage": "https://github.com/khanhpbui/typescript-maps#readme"
 }

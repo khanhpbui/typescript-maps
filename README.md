@@ -11,5 +11,3 @@ npx parcel index.html
 ```
 
 
-npm install @faker-js/faker
-
